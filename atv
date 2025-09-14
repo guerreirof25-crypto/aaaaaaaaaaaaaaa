@@ -12,5 +12,5 @@ void main(void) {
         p = &b;
     }
     *p = *p - 50;
-    printf("a = %d, b = %d\n", a, b);
+    printf("a = %d,b = %d\n", a, b);
 }
